@@ -149,7 +149,7 @@
         <jackson-core-asl.version>1.9.13</jackson-core-asl.version>
         <jjwt.version>0.11.2</jjwt.version>
         <netty-all.version>4.1.42.Final</netty-all.version>
-        <netty-common.version>4.1.31.Final</netty-common.version>
+        <netty-common.version>4.1.59.Final</netty-common.version>
         <mina-core.version>2.0.0-RC1</mina-core.version>
         <guava.version>24.1.1-jre</guava.version>
         <javatuples.version>1.2</javatuples.version>
